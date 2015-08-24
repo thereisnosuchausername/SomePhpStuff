@@ -7,6 +7,6 @@
 <p id="phpoutput"> 
 	<?= "hello" ?>
 </p>
-<div> Just a div</div>
+<div>Random div content</div>
 </body>
 </html>
